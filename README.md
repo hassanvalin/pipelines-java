@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hassanvalin/hassanvalin/_apis/build/status/hassanvalin.pipelines-java?branchName=master)](https://dev.azure.com/hassanvalin/hassanvalin/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
